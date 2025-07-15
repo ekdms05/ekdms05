@@ -1,6 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekdms05&layout=compact&theme=tokyonight)
 
-年俸一千万と社長にタメ口ができる会社を見つけてます
+年俸一千万と社長にタメ口ができる会社を探しています
 
 高卒の人生終わったゴミ、社会生活できない敗北者、プログラミング才能は０
 
