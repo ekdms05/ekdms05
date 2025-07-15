@@ -1,14 +1,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekdms05&layout=compact&theme=tokyonight)
 
-年俸一千万と社長にタメ口ができる会社を探しています
+年俸一千万と社長にダメ口ができて毎日ご飯をおごってる会社を探しているんですよー
 
-高卒の人生終わったゴミ、社会生活できない敗北者、プログラミング才能は０
+小５のころｉｑは１３２、でも発達障害（ ADHD )。
+何もしたくないゴミ。
+社会生活できないコミュ障。
+プログラミング才能は０。
 
 １．アニメプロフィール
 ２．亀首
 ３．毎日２０時間パソコン
 ４．年収無し
-５．社会生活できない
+５．１００％自宅
 
 - 🔭 I’m currently working on カーネルランド,プライベートプロゼット
 - 🌱 I’m currently learning 韓国語
